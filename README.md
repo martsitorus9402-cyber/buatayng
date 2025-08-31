@@ -1,5 +1,3 @@
-# buatayng
-PESAN BUAT AYANG
 <!DOCTYPE html>
 <html lang="id">
 <head>
